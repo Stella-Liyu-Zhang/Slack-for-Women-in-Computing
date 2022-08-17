@@ -1,12 +1,10 @@
-# Women in Computing Slack
+# Slack for Women in Computing
 
 In this project, I created a full stack Real time chat application using getstream-io and ReactJS with registration and authentication. I also implemented the backend using NodeJS and Express.
 
-I wanted to build an app from women in tech. However, I just implemented some basic functions of chatting in slack or discord, like Signing up, logging in, channels, private messaging, etc. 
+I wanted to build an app from women in tech. However, I just implemented some basic functions of chatting in slack or discord, like Signing up, logging in, channels with a specific group of people added, direct messaging, etc. 
 
-I'm still figuring out how to securely only allow female and non-binary users in my app. 
-
-
+I'm still figuring out how to securely limit my user group to female and non-binary users in my app. 
 
 ## Setup
 ### To run the client side, navigate to the client folder by
@@ -85,7 +83,6 @@ And other functions including:
 - stream-chat 
 - stream-chat-react 
 - universal-cookie
-
 
 ## server side npm packages we installed include:
 - bcrypt
