@@ -58,7 +58,7 @@ The sign up form will require the user's
 The sign in form will query in the database to see if your info (username and password) inputted matches. If matching, the user will be successfully signed in.
 ![Sign in form](./imgs/image%20(3).png)
 
-### chat box in web:
+### Direct Messaging bo in web:
 The real time chat box has some highlights including:
 - Sending texts
 - Sending medias
@@ -74,7 +74,7 @@ And other functions including:
     - React to a message with emoji.
 ![Sign in form](./imgs/chatboxweb.png)
 ![EMOJIS](./imgs/emojis.png)
-### chat page in mobile:
+### Direct Messaging box in mobile:
 ![Sign in form](./imgs/chatbox.png)
 ### channel in web:
 ![Sign in form](./imgs/channel.png)
