@@ -58,7 +58,7 @@ The sign up form will require the user's
 The sign in form will query in the database to see if your info (username and password) inputted matches. If matching, the user will be successfully signed in.
 ![Sign in form](./imgs/image%20(3).png)
 
-### Direct Messaging bo in web:
+### Direct Messaging box in web:
 The real time chat box has some highlights including:
 - Sending texts
 - Sending medias
