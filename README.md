@@ -6,35 +6,8 @@ I wanted to build an app from women in tech. However, I just implemented some ba
 
 I'm still figuring out how to securely limit my user group to female and non-binary users in my app. 
 
-## Setup
-### To run the client side, navigate to the client folder by
-```
-cd client
-```
-if you haven't created the react-app yet, feel free to do so by typing: 
-*(./ specifies the directory where we are creating our react app.)*
-```
-npx create-react-app ./
-```
-, then run
-```
-npm start
-```
-
-### To run the server side, navigate to the server folder by
-```
-cd server
-```
-if you haven't intialized the server yet, feel free to do so by typing
-```
-npm init -y
-```
-, then run
-```
-npm run dev
-```
 ## User Stories: 
-1) As a woman in tech, I want to join a community with only fellow female tech workers, to talk in a more free, comfortable, and confident way. 
+As a woman in tech, I want to use a social networking application with only fellow female tech workers, to talk in a more free, comfortable, and confident way. 
 
 ## Competitive Product Analysis:
 - Tbh Slack is much better than my app. I cannot compete with it. 
@@ -78,6 +51,35 @@ And other functions including:
 ![Sign in form](./imgs/channel.png)
 ### channel in mobile:
 ![Sign in form](./imgs/channel2.png)
+
+
+## Setup
+### To run the client side, navigate to the client folder by
+```
+cd client
+```
+if you haven't created the react-app yet, feel free to do so by typing: 
+*(./ specifies the directory where we are creating our react app.)*
+```
+npx create-react-app ./
+```
+, then run
+```
+npm start
+```
+
+### To run the server side, navigate to the server folder by
+```
+cd server
+```
+if you haven't intialized the server yet, feel free to do so by typing
+```
+npm init -y
+```
+, then run
+```
+npm run dev
+```
 
 ## client side npm dependencies we installed include:
 - stream-chat 
