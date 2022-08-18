@@ -1,18 +1,20 @@
 # Slack for Women in Computing
 
-In this project, I created a full stack Real time chat application using getstream-io and ReactJS with registration and authentication. I also implemented the backend using NodeJS and Express.
+Slack for WIC is a fullstack Real time chat application using ReactJS, HTML5 and CSS3 for frontend, NodeJS and ExpressJS for backend, as well as getstream.io API for real-time chatting functionality. 
 
-I wanted to build an app from women in tech. However, I just implemented some basic functions of chatting in slack or discord, like Signing up, logging in, channels with a specific group of people added, direct messaging, etc. 
+I implemented registration, logging in, authentication, Direct messaging and Group Chats, emojis & Reactions, built-in Gif support, the ability to edit & delete messages, specialized commands, and channels with a specific group of people added.
+ 
+> ⭐Stream - https://gstrm.io/js-mastery
 
-I'm still figuring out how to securely limit my user group to female and non-binary users in my app. 
+**Note:** I'm still figuring out how to securely limit my user group to female and non-binary users. 
 
 ## User Stories: 
-As a woman in tech, I want to use a social networking application with only fellow female tech workers, to talk in a more free, comfortable, and confident way. 
+1) As a woman and a software engineer, I want to use a social networking application with only fellow female tech workers, to talk in a more free, comfortable, and confident way. 
+2) As a woman and a Senior product manager, I want to help more girls to crack into and succeed in the competitive tech industry.
 
 ## Competitive Product Analysis:
 - Tbh Slack is much better than my app. I cannot compete with it. 
-- And you could make a female-only slack group too, as long as you know anyone in real person.
-- So I'm still thinking about how to solve users' pain points in my app.
+- I'm still thinking about how to solve users' pain points in my app.
 
 ## Major UIs:
 
@@ -52,8 +54,16 @@ And other functions including:
 ### channel in mobile:
 ![Sign in form](./imgs/channel2.png)
 
+## Requirement
+- Web browser supporting React.js (Chrome preferred). See following table for version requirements.
+    - Browser:
+        - IE (with version = 11)
+        - Edge(with version >= 14) Firefox (with version >= 52) Chrome (with version >= 49) Safari (with version >= 10) Googlebot
+
+- Internet connection
 
 ## Setup
+
 ### To run the client side, navigate to the client folder by
 ```
 cd client
